@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales & Profit Analysis Dashboard (Power BI Capstone Project)
+# 📊 E-commerce Sales & Profit Analysis Dashboard (Microsoft Power BI)
 
 ![Dashboard Preview](./dashboard_final.png)
 
